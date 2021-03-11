@@ -109,10 +109,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=DzEzOuz82Rs"
+                 "value":"https:\/\/www.youtube.com\/embed\/DzEzOuz82Rs"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -130,7 +130,7 @@
                  "value":"https:\/\/skribbl.io\/?nlVgQap8wK5J"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":66,
          "x":0,
          "y":0
