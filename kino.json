@@ -61,7 +61,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https://www.youtube.com/watch?v=nQ5eUJNXrMw&feature=emb_title"
+                 "value":"https:\/\/www.youtube.com\/embed\/ZA6dQS8ohfo"
                 }],
          "type":"tilelayer",
          "visible":true,
