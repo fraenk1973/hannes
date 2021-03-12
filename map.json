@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/radio.garden\/"
+                 "value":"https:\/\/wohnopia.wordpress.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,7 +229,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/moabit.world\/veranstaltungsinfos\/"
+                 "value":"https:\/\/www.dgb-bwt.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
